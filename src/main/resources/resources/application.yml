@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: filmService
+server:
+  port: 8081
